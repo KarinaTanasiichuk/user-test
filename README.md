@@ -1,6 +1,6 @@
 # User Application
 
-**Description
+**Description**
 
 The simple application for users management. 
 
