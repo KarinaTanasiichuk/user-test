@@ -1,12 +1,12 @@
 # User Application
 
-**Description
+**Description**
 
 The simple application for users management. 
 
 It allows to create, update, patch, delete and find users by birthday.
 
-**Endpoints:
+**Endpoints**:
 
 1. Create user: POST http://localhost:8080/users
 2. Update user: PUT http://localhost:8080/users/{id}
@@ -15,7 +15,7 @@ It allows to create, update, patch, delete and find users by birthday.
 5. Get all users: GET http://localhost:8080/users
 6. Get list of users between birthday: GET http://localhost:8080/users/by-birthday
 
-**Features:
+**Features**:
 
 User has the following fields:
 
@@ -29,7 +29,7 @@ User has the following fields:
 
 Also, application is covered by dao and controllers tests.
 
-**Technologies:
+**Technologies**:
 
 1. Java 17;
 2. Maven;
